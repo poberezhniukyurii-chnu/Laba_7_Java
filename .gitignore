@@ -1,0 +1,21 @@
+# Скомпільовані класи
+out/
+*.class
+
+# Локальні налаштування IntelliJ IDEA
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+.idea/dictionaries/
+
+# Тимчасові файли Word і Windows
+~$*
+Thumbs.db
+desktop.ini
+
+# Звіти й нотатки до захисту — лишаються тільки на комп'ютері
+Звіт_*.docx
+Захист_*.docx
+
+# Файли, які створюють програми під час запуску
+data/all_sorted.txt
